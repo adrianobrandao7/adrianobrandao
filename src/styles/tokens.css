@@ -1,0 +1,16 @@
+:root {
+  font-family: 'Manrope', sans-serif;
+  color: #eaf0f6;
+  background: #0b1017;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  --color-bg: #0b1017;
+  --color-surface: #111923;
+  --color-text: #eaf0f6;
+  --color-muted: #98a5b5;
+  --color-line: #27313d;
+  --color-accent: #b7f36b;
+  --font-mono: 'DM Mono', monospace;
+  --container: 1160px;
+}

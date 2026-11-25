@@ -1,0 +1,9 @@
+ .site-header { height: 82px; width: min(100% - 64px, var(--container)); margin: auto; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid rgba(150,165,181,.13); }
+.brand { font-size: 25px; font-weight: 800; letter-spacing: -1.8px; }
+.brand span { color: var(--color-accent); }
+.site-header nav { display: flex; align-items: center; gap: 32px; color: #b6c0cc; font-size: 12px; }
+.site-header nav a:hover, .site-header nav a.active { color: var(--color-accent); }
+.nav-resume { border: 1px solid #3a4653; padding: 10px 14px; border-radius: 5px; color: #eef3f7; }
+.site-footer { width: min(100% - 64px, var(--container)); margin: auto; padding: 24px 0; display: flex; align-items: center; justify-content: space-between; color: #788594; font: 10px var(--font-mono); }
+.site-footer .brand { color: var(--color-text); font-family: 'Manrope',sans-serif; }
+.site-footer a:hover { color: var(--color-accent); }
